@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-DDDEPE](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{DDDEPE})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDEPE&layout=compact)
 
